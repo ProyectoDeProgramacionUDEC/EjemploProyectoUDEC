@@ -3,6 +3,7 @@ name: Task Template
 about: Template for tasks
 title: "[Task] Brief description of what needs to be done"
 labels: Task
+type: 'Task'
 assignees: ''
 
 ---
