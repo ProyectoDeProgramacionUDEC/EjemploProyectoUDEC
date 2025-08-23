@@ -3,6 +3,7 @@ name: User Story template
 about: Template for User Story
 title: "[User Story] XX: As a [user type], I want to [goal] so that [benefit]"
 labels: User Story
+type: 'User Story'
 assignees: ''
 
 ---
