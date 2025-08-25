@@ -16,7 +16,7 @@ assignees: ''
 ## Description
 More detailed explanation of the feature from the user's perspective.
 
-## Acceptance Criteria
+## Acceptance Criteria 
 - [ ] Given [context], when [action], then [expected outcome]
 - [ ] Given [context], when [action], then [expected outcome]
 - [ ] Given [context], when [action], then [expected outcome]
@@ -34,7 +34,7 @@ More detailed explanation of the feature from the user's perspective.
 
 ## Definition of Done
 - [ ] All acceptance criteria met
-- [ ] Feature revised by stakeholder
+- [ ] Feature revised by PO
 - [ ] Documentation updated
 - [ ] Deployed to production
 
